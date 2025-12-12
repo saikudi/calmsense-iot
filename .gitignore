@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+# Arduino build artifacts
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+*.swp
