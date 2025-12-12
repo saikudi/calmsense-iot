@@ -51,14 +51,8 @@ Update the firmware with your Channel ID and Write API Key.
 5. Keep the device steady for 30 seconds during baseline calibration.
 6. Move the device, tap the touch sensor, or change lighting and observe the stress score.
 
-## Demo Video
-Add your demo link to: `media/demo_video_link.txt`
 
 ## Repository Contents
 - `firmware/` Arduino code for the TTGO
 - `docs/` wiring, architecture, and demo script
-- `dashboard/` optional local dashboard
-- `media/` block diagram and demo link
 
-## License
-MIT License (see `LICENSE`)
